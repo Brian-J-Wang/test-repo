@@ -1,6 +1,9 @@
 ---
 name: Test Repo
-technologies: [react, astro, html, css]
+technologies: 
+  - react
+  - typescript
+  - javascript
 desc: This is a test repo used to test the github services 
 
 ---
