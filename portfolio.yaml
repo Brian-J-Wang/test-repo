@@ -1,0 +1,9 @@
+name: Test Repo
+description: This repo is for testing my portfolio backend
+tech_stack:
+  - React
+  - Typescript
+  - HTML
+  - CSS
+links:
+  live: "https://www.test.com
