@@ -1,5 +1,6 @@
 name: Test Repo
 description: This repo is for testing my portfolio backend
+project_type: personal
 tech_stack:
   - React
   - Typescript
